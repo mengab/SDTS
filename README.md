@@ -23,14 +23,10 @@ The code was developed using Python 3.6 & TensorFlow 1.3 & CUDA 8.0.
 ## Code v1.0
 Currently, we release our research code for training and testing. It should produce the same results as in the paper under LD configurations.
 ## Test
-* Pretrained models can be downloaded from this link!
-```
-https://drive.google.com/drive/folders/1xROBCUHgIX-3zqKMSHwKFEK8udIEicl1?usp=sharing
-```
-* It would be very easy to understand the test function and test on your own data.
+* It would be very easy to understand the train or test function and train or test on your own data.
 * An example of test usage is shown as follows:
 ```bash 
-python MGANet_test_AI37.py --gpu_id 1 --is_training False
+python CUDA_VISIBLE_DEVICES=0 SDTS_test.py
 ```
 
 ## Video Results
