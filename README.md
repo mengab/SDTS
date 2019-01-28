@@ -10,7 +10,8 @@ TensorFlow implementation of "Enhancing Quality for VVC Compressed Videos by Joi
 
 <p align="center">
     <img src="files/MC.png" width="800"> <br />
-    <em> The temporal fusion unit and spatial quality enhancement subnet </em>
+    <em> Top: flow map estimated relating the original frame. Bottom: the consecutive frames without and with motion
+compensation (No MC and MC). </em>
 </p>
 
 ## Installation
