@@ -10,7 +10,7 @@ TensorFlow implementation of "Enhancing Quality for VVC Compressed Videos by Joi
     <em> The proposed quality enhancement network</em>
 </p>
 
-##
+
 ##
 ## Motion Compensation (MC)
 <p align="center">
