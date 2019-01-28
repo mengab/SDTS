@@ -3,12 +3,12 @@ TensorFlow implementation of "Enhancing Quality for VVC Compressed Videos by Joi
 [arXiv](http://arxiv.org/pdf/1811.2555181)
 
 <p align="center">
-    <img src="files/framework.png" width="800"> <br />
+    <img src="files/overview.png" width="800"> <br />
     <em> The proposed quality enhancement network</em>
 </p>
 
 <p align="center">
-    <img src="files/GUNet.png" width="800"> <br />
+    <img src="files/MC.png" width="800"> <br />
     <em> The temporal fusion unit and spatial quality enhancement subnet </em>
 </p>
 
