@@ -1,13 +1,16 @@
 TensorFlow implementation of "Enhancing Quality for VVC Compressed Videos by Jointly Exploiting Spatial Details and Temporal Structure"
 
+
 [arXiv](http://arxiv.org/pdf/1811.2555181)
+
+## Framework
 
 <p align="center">
     <img src="files/overview.png" width="800"> <br />
     <em> The proposed quality enhancement network</em>
 </p>
 
-
+## Motion Compensation (MC)
 <p align="center">
     <img src="files/MC.png" width="800"> <br />
     <em> Top: flow map estimated relating the original frame. Bottom: the consecutive frames without and with motion
