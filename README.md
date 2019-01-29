@@ -41,7 +41,7 @@ If you use any part of our code, or our method is useful for your research, plea
 @article{SDTS2019,
   author={Xiandong, Meng and Xuan, Deng and Shuyuan, Zhu and Bing, Zeng},
   title={Enhancing Quality for VVC Compressed Videos by Jointly Exploiting Spatial Details and Temporal Structure},
-  journal={arXiv:1811.2555181},
+  journal={arXiv:1811.09150},
   year={2019}
 }
 ```
