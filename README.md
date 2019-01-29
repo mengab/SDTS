@@ -1,7 +1,7 @@
 TensorFlow implementation of "Enhancing Quality for VVC Compressed Videos by Jointly Exploiting Spatial Details and Temporal Structure"
 
 
-[arXiv](https://arxiv.org/pdf/1811.09150)
+[arXiv](https://arxiv.org/pdf/1901.09575.pdf)
 
 ## Framework
 
@@ -32,7 +32,7 @@ python CUDA_VISIBLE_DEVICES=0 SDTS_test.py
 ```
 
 ## Video Results
-* [Here](https://arxiv.org/pdf/1811.09150) we provide quality enhancement results of compressed video for 18 widely used sequences for visual and quantitative comparisons.
+* [Here](https://arxiv.org/pdf/1901.09575) we provide quality enhancement results of compressed video for 18 widely used sequences for visual and quantitative comparisons.
 ## Citation
 
 If you use any part of our code, or our method is useful for your research, please consider citing:
@@ -41,7 +41,7 @@ If you use any part of our code, or our method is useful for your research, plea
 @article{SDTS2019,
   author={Xiandong, Meng and Xuan, Deng and Shuyuan, Zhu and Bing, Zeng},
   title={Enhancing Quality for VVC Compressed Videos by Jointly Exploiting Spatial Details and Temporal Structure},
-  journal={arXiv:1811.09150},
+  journal={arXiv:1901.09575},
   year={2019}
 }
 ```
