@@ -1,7 +1,7 @@
 TensorFlow implementation of "Enhancing Quality for VVC Compressed Videos by Jointly Exploiting Spatial Details and Temporal Structure" （ICIP2019）
 
 
-[arXiv](https://arxiv.org/pdf/1901.09575.pdf)
+[arXiv](https://arxiv.org/pdf/1901.09575.pdf) [ICIP2019](https://cmsworkshops.com/ICIP2019/Papers/AcceptedPapers.asp)
 
 ## Framework
 
