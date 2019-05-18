@@ -38,11 +38,11 @@ python CUDA_VISIBLE_DEVICES=0 SDTS_test.py
 If you use any part of our code, or our method is useful for your research, please consider citing:
 
 ```
-@article{SDTS2019,
-  author={Xiandong, Meng and Xuan, Deng and Shuyuan, Zhu and Bing, Zeng},
-  title={Enhancing Quality for VVC Compressed Videos by Jointly Exploiting Spatial Details and Temporal Structure},
-  journal={arXiv:1901.09575},
-  year={2019}
+@inproceedings{SDTS2019,
+author = {Xiandong, Meng and Xuan, Deng and Shuyuan, Zhu and Bing, Zeng},
+title = {Enhancing Quality for VVC Compressed Videos by Jointly Exploiting Spatial Details and Temporal Structure},
+booktitle = {ICIP},
+year = 2019
 }
 ```
 ## Contact
