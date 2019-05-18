@@ -31,9 +31,9 @@ Currently, we release our research code for training and testing. It should prod
 python CUDA_VISIBLE_DEVICES=0 SDTS_test.py
 ```
 
-## Video Results
-* [Here](https://arxiv.org/pdf/1901.09575) we provide quality enhancement results of compressed video for 18 widely used sequences for visual and quantitative comparisons.
-## Citation
+%## Video Results
+%* [Here](https://arxiv.org/pdf/1901.09575) we provide quality enhancement results of compressed video for 18 widely used sequences for %visual and quantitative comparisons.
+%## Citation
 
 If you use any part of our code, or our method is useful for your research, please consider citing:
 
