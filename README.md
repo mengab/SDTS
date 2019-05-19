@@ -6,7 +6,7 @@ TensorFlow implementation of "Enhancing Quality for VVC Compressed Videos by Joi
 ## Framework
 
 <p align="center">
-    <img src="files/overview.png" width="600"> <br />
+    <img src="files/overview.png" width="750"> <br />
     <em> The proposed quality enhancement network</em>
 </p>
 
