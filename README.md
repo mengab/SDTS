@@ -24,7 +24,7 @@ compensation (No MC and MC). </em>
 The code was developed using Python 3.6 & TensorFlow 1.3 & CUDA 8.0. 
 
 ## Code v1.0
-Currently, we release our research code for testing. It should produce the same results as in the paper under LD configurations.
+Currently, we release our research code for testing. It should produce the same results as in the paper under LD configuration.
 ## Testing
 * It's easy to understand testing functions and to test your own data.
 * An example of test usage is shown as follows:
